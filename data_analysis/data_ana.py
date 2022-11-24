@@ -1,10 +1,10 @@
 '''
-Author: Yang Kaihang, kayang.name@outlook.com
+Author: kayang, kayang.name@outlook.com
 Date: 2022-06-29 11:17:08
-LastEditors: Yang Kaihang
+LastEditors: kayang
 LastEditTime: 2022-07-15 12:01:33
 Description: file content
-Copyright (c) 2022 by Yang Kaihang, All Rights Reserved.
+Copyright (c) 2022 by kayang, All Rights Reserved.
 '''
 
 import os
