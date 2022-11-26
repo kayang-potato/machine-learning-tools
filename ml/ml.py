@@ -57,5 +57,3 @@ class ML():
         ''' elastic '''
         cur_model = ElasticNet(alpha=0.05,l1_ratio=0.5)
         return cur_model
-
-
