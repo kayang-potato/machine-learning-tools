@@ -84,7 +84,7 @@ class ModelTrain():
             pass
         else:
             self.model.fit(train_x, train_y)
-        return self
+        return self.model
 
     def fit_grid_search(self, train_x, train_y=None, grid_search_params=None):
         ''' 网格搜索 '''
